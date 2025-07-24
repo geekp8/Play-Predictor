@@ -4,8 +4,8 @@ This project demonstrates the use of the K-Nearest Neighbors (KNN) algorithm to 
 
 #Data Loading
 
-* Utilized the `PlayPredictor.csv` dataset.
-* Loaded using `pandas` for easy manipulation and analysis.
+* Utilized the PlayPredictor.csv dataset.
+* Using pandas for easy manipulation and analysis.
 
 
 #Data Preprocessing
